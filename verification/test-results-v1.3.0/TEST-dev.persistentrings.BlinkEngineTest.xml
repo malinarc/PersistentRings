@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="dev.persistentrings.BlinkEngineTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2026-11-06T15:10:31.820Z" hostname="MALIN" time="0.016">
+  <properties/>
+  <testcase name="bridgeDeathDuringCancellationDoesNotBreakCollector" classname="dev.persistentrings.BlinkEngineTest" time="0.004"/>
+  <testcase name="liveSettingsCancelOldSessionBeforeNewSession" classname="dev.persistentrings.BlinkEngineTest" time="0.005"/>
+  <testcase name="oneShotDoubleFlashFinishesAndTurnsOff" classname="dev.persistentrings.BlinkEngineTest" time="0.001"/>
+  <testcase name="intervalIncludesPreparationAndMeasuresDarkTime" classname="dev.persistentrings.BlinkEngineTest" time="0.003"/>
+  <testcase name="continuesBeyondOneFlashAndCancellationClears" classname="dev.persistentrings.BlinkEngineTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

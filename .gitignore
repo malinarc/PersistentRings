@@ -1,0 +1,46 @@
+# Gradle build files and caches
+.gradle/
+**/build/
+.kotlin/
+
+# Local Android SDK configuration
+local.properties
+
+# Signing credentials and keystores
+*.jks
+*.keystore
+keystore.properties
+signing.properties
+key.properties
+
+# Secret or machine-specific properties
+secrets.properties
+*.secret.properties
+
+# Android Studio and IntelliJ files
+.idea/
+*.iml
+captures/
+.externalNativeBuild/
+.cxx/
+.navigation/
+
+# Compiled Android packages and build metadata
+*.apk
+*.aab
+*.ap_
+output.json
+
+# Logs, profiling and temporary files
+*.log
+*.hprof
+*.tmp
+*.temp
+
+# Google/Firebase local configuration
+google-services.json
+
+# Operating-system files
+.DS_Store
+Thumbs.db
+desktop.ini

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="dev.persistentrings.PatternCommandsTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2026-11-04T16:50:32.970Z" hostname="MALIN" time="0.014">
+  <properties/>
+  <testcase name="cancellationClearsEveryPatternAndStopsAllCommands" classname="dev.persistentrings.PatternCommandsTest" time="0.004"/>
+  <testcase name="breathingAndSteadyUseExactCommandsAndBoundedCycles" classname="dev.persistentrings.PatternCommandsTest" time="0.002"/>
+  <testcase name="singleSequence" classname="dev.persistentrings.PatternCommandsTest" time="0.002"/>
+  <testcase name="doubleSequenceAndPause" classname="dev.persistentrings.PatternCommandsTest" time="0.002"/>
+  <testcase name="changingPatternClearsAndJoinsBeforeReplacement" classname="dev.persistentrings.PatternCommandsTest" time="0.004"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

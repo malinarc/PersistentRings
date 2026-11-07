@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="dev.persistentrings.ReminderGateTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2026-11-06T15:10:32.166Z" hostname="MALIN" time="0.012">
+  <properties/>
+  <testcase name="appSelectionWaitsForOffCleanupAndFinalRemovalStopsAllCommands" classname="dev.persistentrings.ReminderGateTest" time="0.007"/>
+  <testcase name="faceUpWaitsFaceDownRunsAndLeavingFaceDownClears" classname="dev.persistentrings.ReminderGateTest" time="0.005"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

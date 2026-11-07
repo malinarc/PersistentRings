@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="dev.persistentrings.PackageSettingsTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2026-11-05T20:45:42.516Z" hostname="MALIN" time="0.162">
+  <properties/>
+  <testcase name="freshInstallIsEmptyAndArbitraryPackagesSurviveReopen" classname="dev.persistentrings.PackageSettingsTest" time="0.127"/>
+  <testcase name="upgradePreservesStoredSetIncludingExplicitEmptySelection" classname="dev.persistentrings.PackageSettingsTest" time="0.035"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

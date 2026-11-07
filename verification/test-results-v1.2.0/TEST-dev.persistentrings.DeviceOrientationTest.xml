@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="dev.persistentrings.DeviceOrientationTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2026-11-05T20:45:42.487Z" hostname="MALIN" time="0.019">
+  <properties/>
+  <testcase name="normalizesGravityAndFiltersAccelerometerChanges" classname="dev.persistentrings.DeviceOrientationTest" time="0.001"/>
+  <testcase name="registersOnlyForEligibleFaceDownOperationAndReleasesOnIdle" classname="dev.persistentrings.DeviceOrientationTest" time="0.015"/>
+  <testcase name="unavailableSensorDoesNotRegister" classname="dev.persistentrings.DeviceOrientationTest" time="0.003"/>
+  <testcase name="entryAndExitRequireExactThresholdsAnd500Milliseconds" classname="dev.persistentrings.DeviceOrientationTest" time="0.0"/>
+  <testcase name="crossingBackIntoHysteresisResetsPendingTransition" classname="dev.persistentrings.DeviceOrientationTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

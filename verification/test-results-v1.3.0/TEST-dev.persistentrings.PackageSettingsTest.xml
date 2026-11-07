@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="dev.persistentrings.PackageSettingsTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2026-11-06T15:10:31.863Z" hostname="MALIN" time="0.26">
+  <properties/>
+  <testcase name="freshInstallIsEmptyAndArbitraryPackagesSurviveReopen" classname="dev.persistentrings.PackageSettingsTest" time="0.151"/>
+  <testcase name="upgradePreservesStoredSetIncludingExplicitEmptySelection" classname="dev.persistentrings.PackageSettingsTest" time="0.05"/>
+  <testcase name="arbitraryColorOverridesSurviveDeselectAndReopen" classname="dev.persistentrings.PackageSettingsTest" time="0.059"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
